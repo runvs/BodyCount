@@ -1,0 +1,12 @@
+Body Count
+
+Ein Spiel von Simon Weis
+laguna_1989@gmx.net
+
+C#, Visual Studio 2010, SFML.Net 2.1,
+aseprite, LMMS, ChronoLapse
+
+
+Hardwareanforderungen:
+win7 Sp1 x64
+Dual Core2Duo T7200
